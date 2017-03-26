@@ -1,0 +1,11 @@
+{
+  "name": "weresquirrel",
+  "version": "1.0.0",
+  "description": "a js project",
+  "main": "weresquirrel.js",
+  "scripts": {
+    "test": "weresquirrel"
+  },
+  "author": "",
+  "license": "ISC"
+}
